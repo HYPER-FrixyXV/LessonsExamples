@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/doc/" />
+  <Folder Name="/src/">
+    <Project Path="src/BPascal.LessonEx.Main/BPascal.LessonEx.Main.csproj" Id="45f17766-fa23-4239-a5a3-1c70e7385204" />
+    <Project Path="src/Conquest/Conquest (domain).csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/War/War (test).csproj" />
+  </Folder>
+</Solution>

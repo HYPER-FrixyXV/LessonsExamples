@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Conquest (domain)": {
+      "commandName": "Project"
+    },
+    "Profilo 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\caichu.chen\\source\\repos\\LessonsExamples\\src\\BPascal.LessonEx.Main\\Program.cs"
+    }
+  }
+}
