@@ -13,6 +13,16 @@
         int costoPerPacco = 5;
 
         int costoTot = (costoPerPacco * pacchi)+costoSpedizione;
-        Console.WriteLine($"una cosa, il costo totale dei tuoi pacchi sono {costoTot} euro. paga.");
+        costoTot = 0;
+       
+
+        if (costoTot == 0)
+        {
+            Console.WriteLine($"{brother} che hai comprato???");
+        }
+        else
+        {
+            Console.WriteLine($"una cosa, il costo totale dei tuoi pacchi sono {costoTot} euro. paga.");
+        }
     }
 }
