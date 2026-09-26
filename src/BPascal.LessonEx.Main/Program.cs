@@ -8,7 +8,7 @@
         Console.WriteLine($"hello {brother}, welcome to hell");
 
         Console.WriteLine("dobbiamo ordinare della roba per la scuola. quanti ne vuoi? non fare domande");
-        int pacchi = Console.Read();
+        int pacchi = int.Parse(Console.ReadLine());
         int costoSpedizione = 90;
         costoSpedizione = 10;
         int costoPerPacco = 5;
